@@ -5,6 +5,6 @@ accuracy, as well as to gain insight into the variabels and relationships within
 * Utilized the Sequential Floating Forward Selection method to identify the most relevant features for the predictive
 model.
 * Experimented with multiple classification algorithms ( Logistic regression, KNeighbors Classifier, Support Vector
-Machine, Random Forest Classifier, LGBM Classifier, and CatBoost Classifier) to determine the best model for
+Machine, XGBoost Classifier, LGBM Classifier, and CatBoost Classifier) to determine the best model for
 predicting
  
